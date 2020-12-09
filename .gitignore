@@ -1,0 +1,12 @@
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+bin/
+include/
+lib/
+lib64
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
